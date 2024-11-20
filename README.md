@@ -33,5 +33,5 @@ Estoy estudiando en el programa **ONE** de Oracle y Alura LATAM, especializándo
 
 - **Email:** r.1993andres.ee@gmail.com
 - **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/edwinestradam/)
-- **Portafolio:** [Visita mi portafolio](https://portfolioedwinestrada.netlify.app)
+- **Portafolio:** [Visita mi portafolio](https://portafolioedwinestrada.netlify.app)
 
